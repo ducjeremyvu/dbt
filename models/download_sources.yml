@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: download
+    description: contains data manually download
+    database: double-media-417407
+    schema: download
+    tables:
+      - name: nasdaq_stocks
